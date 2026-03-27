@@ -1,4 +1,4 @@
-# Dev Community Pulse
+# Community Pulse
 
 Real-time community intelligence dashboard for AI and ML developer communities.
 
